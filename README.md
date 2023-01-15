@@ -27,5 +27,6 @@ Right-click the small purple dot on the right to donate Poto.
 If you have a PayPal or credit card, you can donate Poto via the Sponsor Poto button.
 
 **鸣谢**
+
 [pingshunhuangalex](https://github.com/pingshunhuangalex) 设计键位图  
 [键道](https://xkinput.github.io)社区所有朋友大力支持
