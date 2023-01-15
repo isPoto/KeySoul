@@ -9,7 +9,7 @@
 
 **用法**
 
-下载后将 键魂ByPotoVersion**.zip 解压至新的空白文件夹  
+下载后将 KeySoulByPotoVersion**.zip 解压至新的空白文件夹  
 运行 键魂.exe  
 屏幕将会显示键道键位  
 右侧的小紫点可以左键拖拽移动位置，移到屏幕下方，方便打字时对照  
@@ -17,7 +17,7 @@
 
 鼠标右键右击右侧小紫点，捐赠 Poto
 
-After downloading, unzip 键魂ByPotoVersion** .zip to a new blank folder  
+After downloading, unzip KeySoulByPotoVersion** .zip to a new blank folder  
 Run 键魂.exe  
 The screen will display the key map
 The small purple dot on the right can be left-clicked and dragged to move the position to the bottom of the screen, which is convenient for comparison when typing  
