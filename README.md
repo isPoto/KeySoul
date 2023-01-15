@@ -2,7 +2,7 @@
 
 键魂是 Poto 开发的「键道」键位屏幕虚拟软件，辅助您不熟悉键位时用
 
-![image](https://user-images.githubusercontent.com/59009389/212562470-c7a984f3-da21-4d52-bac0-99ed27272fd7.png)
+![image](KeySoulDemo.png)
 
 
 **特性**
