@@ -17,7 +17,7 @@
 
 鼠标右键右击右侧小紫点，捐赠 Poto
 
-After downloading, unzip ByPotoVersion ** .zip to a new blank folder  
+After downloading, unzip 键魂ByPotoVersion** .zip to a new blank folder  
 Run 键魂.exe  
 The screen will display the key map
 The small purple dot on the right can be left-clicked and dragged to move the position to the bottom of the screen, which is convenient for comparison when typing  
