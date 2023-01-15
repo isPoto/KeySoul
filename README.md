@@ -14,5 +14,5 @@
 双击右侧小紫点退出键魂
 
 **鸣谢**
-pingshunhuangalex 设计键位图
-键道社区所有朋友大力支持
+[pingshunhuangalex](https://github.com/pingshunhuangalex) 设计键位图
+[键道](https://xkinput.github.io)社区所有朋友大力支持
