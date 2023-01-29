@@ -1,10 +1,21 @@
 # KeySoul
 
-键魂是 Poto 开发的「键道」键位屏幕虚拟软件，辅助您不熟悉键位时用
+键魂是 Poto 开发的「键道」键位屏幕虚拟软件，辅助您初学不熟悉键位时用
 
 ![KeySoulDemo](https://user-images.githubusercontent.com/59009389/212562592-c80682f0-d516-4c73-8f3b-6bfaeb6d4bda.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4CJExi-yeKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+你想要学键道，但你面对陌生的键位皱眉。
+
+你只是想要体验双拼的畅快淋漓，你想要上来就打字，而不是去背诵和抄写键位图。
+
+现在，「键魂」让你直接上手体验键道的魅力。你只需了解键道的规则，即可在对键位陌生的前提下直接打字。
+
+键魂会在屏幕上显示键道键位表，它不会干扰你的鼠标操作，你可以看到和操作键魂底下的内容。你在打字时召唤键魂，即可对照着键位打字。
+
+你可以移动键魂到你喜欢的位置，当你用完后，双击右侧小紫点退出。
 
 **特性**
 
@@ -51,3 +62,6 @@ If you have a PayPal or credit card, you can donate Poto via the Sponsor Poto bu
 Poto Channel  https://t.me/PotoChannel  
 Poto Group  https://t.me/PotoGroup  
 定制软件找 Poto  
+
+![ReceiveMoney](https://user-images.githubusercontent.com/59009389/215348988-e68e08a7-3fb8-4347-81cb-8b62c3d828e4.png)
+
