@@ -48,6 +48,6 @@ If you have a PayPal or credit card, you can donate Poto via the Sponsor Poto bu
   });
 </script>
 
-Poto Channel  https://t.me/PotoChannel
-Poto Group  https://t.me/PotoGroup
-定制软件找 Poto
+Poto Channel  https://t.me/PotoChannel  
+Poto Group  https://t.me/PotoGroup  
+定制软件找 Poto  
